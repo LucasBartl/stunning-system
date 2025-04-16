@@ -17,3 +17,6 @@ git log
 
 Remover um arquivo da status area 
 git remove --cached nomearquivo 
+
+Restaura o arquivo da forma inicial
+git restore nomearquivo
