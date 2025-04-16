@@ -26,3 +26,9 @@ git checkout idcomit
 
 Após usar o checkout em um commit antigo ele ira te levar navamente para o atual 
 git checkout main
+
+Puxa modificações do repositorio remoto para o local 
+git pull
+
+envia as modificações locais para o repositorio remoto
+git push
