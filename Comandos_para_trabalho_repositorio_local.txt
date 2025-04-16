@@ -12,7 +12,7 @@ git ad .
 Criar e descrever um ponto na historia
 git commit -n "mensagem aqui"
 
-Verificar historico de commits 
+Verificar historico de commits, usado para navegar atraves dos commits
 git log
 
 Remover um arquivo da status area 
@@ -20,5 +20,12 @@ git remove --cached nomearquivo
 
 Restaura o arquivo da forma inicial
 git restore nomearquivo
+
+Usado para checar os commit antigos
+git checkout idcomit
+
+
+
+
 
 
