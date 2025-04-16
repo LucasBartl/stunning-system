@@ -32,3 +32,6 @@ git pull
 
 envia as modificações locais para o repositorio remoto
 git push
+
+Trazer um repositorio remoto para minha maquina 
+git clone https://github.com/LucasBartl/stunning-system.git
