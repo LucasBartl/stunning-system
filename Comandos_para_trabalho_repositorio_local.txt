@@ -20,3 +20,5 @@ git remove --cached nomearquivo
 
 Restaura o arquivo da forma inicial
 git restore nomearquivo
+
+
